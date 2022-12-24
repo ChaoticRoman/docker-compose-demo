@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>HTTP frontend</title>
+    </head>
+    <body>
+        Frontend says: 
+        <script>
+            window.fetch("http://localhost:81/").then(
+                response => {
+                    console.log(response);
+                }
+            );
+        </script>
+    <body>
+</html>
