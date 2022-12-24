@@ -17,6 +17,7 @@ Docker
 
 * internal routing frontend to backend?
 * CORS issue?
+    * maybe https://burakcanekici.medium.com/enabling-cors-policy-during-cross-domain-http-request-over-nginx-node-js-containers-63ebbf78d67b
 
 ### Minor
 
